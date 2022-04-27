@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100vw;
+    height: 100vh;
+    background-color: #82A284;
+    display: grid;
+    place-items: center;
+}
+
+.container {
+    width: 35rem;
+    height: 15rem;
+    background-color: #CE9461;
+    border-radius: 2rem;
+    box-shadow: 0 1.2rem 3rem 0.5rem rgba(0, 0, 0, 0.5);
+    padding: 3rem;
+    text-align: center;
+}
+
+form {
+    margin: 3.5rem;
+}
+
+.box {
+    margin: 0.5rem;
+}
+
+#temp {
+    border-radius: 10px;
+    padding: 0.2rem;
+}
+
+#dropdid {
+    padding: 0.2rem;
+}
+
+#conv {
+    margin-bottom: 0.5rem;
+}
